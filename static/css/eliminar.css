@@ -108,23 +108,15 @@ body {
 
 .navbar {
   padding: 0.5rem 1rem;
-<<<<<<< HEAD
-  background: rgba(255, 239, 254, 0.9); 
-=======
   background: rgba(255, 239, 254, 0.9);
-
->>>>>>> 2e817613624ccf9b461e5ba7063109ce56c40b56
 }
 
 .navbar-brand {
   font-size: 2.1rem;
   font-weight: 800;
   letter-spacing: 1px;
-<<<<<<< HEAD
-  color: #ca1b1bff !important; 
-=======
   color: #ffffff !important;
->>>>>>> 2e817613624ccf9b461e5ba7063109ce56c40b56
+
   transition: transform 0.3s ease, color 0.3s ease;
 }
 
@@ -152,7 +144,6 @@ body {
   font-size: 20px;
 }
 
-<<<<<<< HEAD
 .dropdown-menu{
     background-color:var(--secondary-color) ;
     border-radius: 8px;
@@ -162,19 +153,7 @@ body {
 .dropdown-item{
     color: #000000 !important;
     padding: 10px 15px;
-=======
 
-.dropdown-menu {
-  background-color: var(--secondary-color);
-  border-radius: 8px;
-  border: 1px solid #ddd;
-  box-shadow: 0 10px 10px #ffe75f;
->>>>>>> 2e817613624ccf9b461e5ba7063109ce56c40b56
-}
-
-.dropdown-item {
-  color: #000000 !important;
-  padding: 10px 15px;
 }
 
 .dropdown-item:hover {
